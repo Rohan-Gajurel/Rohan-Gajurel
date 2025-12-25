@@ -78,21 +78,7 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
 - ✅ Responsive design for mobile and desktop
 - ✅ Data persistence using browser storage
 
-#### 📁 Project Structure
-Fitness-Management-System/
-├── index.html # Main application entry point
-├── css/ # Stylesheets
-│ └── style.css # Main styles
-├── js/ # JavaScript files
-│ ├── app.js # Main application logic
-│ ├── auth.js # Authentication functions
-│ └── workout.js # Workout management
-├── assets/ # Images and icons
-└── README.md # Project documentation
 
-text
-
----
 
 ### 📰 2. News Portal (Django Application)
 **Full-featured news management system with user authentication and content publishing**
@@ -136,45 +122,4 @@ Development Tools
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"> </p>
 📫 Connect With Me
 <div align="center"> <a href="https://github.com/Rohan-Gajurel" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/your-profile" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /> </a></div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Rohan-Gajurel&style=flat-square&color=blue" alt="Profile Views" /> <p>⭐️ From <a href="https://github.com/Rohan-Gajurel">Rohan Gajurel</a></p> <!-- Snake Animation --> <img src="https://raw.githubusercontent.com/Rohan-Gajurel/Rohan-Gajurel/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" /></div> ```
-📋 Step-by-Step Instructions:
-Select All: Click and drag to select ALL the text above (from <!-- Header Section --> to the last </div>)
-
-Copy: Press Ctrl+C (Windows/Linux) or Cmd+C (Mac)
-
-Go to GitHub: Open https://github.com/Rohan-Gajurel
-
-Find/Create Repository:
-
-Look for a repository named Rohan-Gajurel (same as your username)
-
-If it doesn't exist: Click "New" → Name: Rohan-Gajurel → Check "Add a README" → Create
-
-Edit README.md: Click the pencil/edit icon on the README.md file
-
-Paste: Press Ctrl+V (Windows/Linux) or Cmd+V (Mac) to paste
-
-Commit: Scroll down, add commit message, click "Commit changes"
-
-✨ What This README Includes:
-✅ Professional header with animated banner
-
-✅ About Me section with your skills
-
-✅ GitHub stats showing your activity
-
-✅ 3 featured projects (Fitness, News-Portal, Web Scraping)
-
-✅ Detailed tech stacks for each project
-
-✅ Contact information section
-
-✅ Visual badges and GitHub trophies
-
-Important: After pasting, remember to update:
-
-The LinkedIn link (change your-profile to your actual LinkedIn username)
-
-The email address (change your-email@example.com to your real email)
-
-The README will automatically appear on your GitHub profile!
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=Rohan-Gajurel&style=flat-square&color=blue" alt="Profile Views" /> <p>⭐️ From <a href="https://github.com/Rohan-Gajurel">Rohan Gajurel</a></p> 
