@@ -42,9 +42,9 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Gajurel&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rohan-Gajurel&theme=default&hide_border=true&mode=weekly" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
