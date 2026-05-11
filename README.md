@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rohan%20Gajurel&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55" alt="Header Banner" />
   
-  <h1>Full Stack Developer | Python & JavaScript Specialist</h1>
+  <h1>Full Stack Developer | Python & PHP Specialist</h1>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -29,7 +29,7 @@ I'm a passionate full-stack developer from Nepal with expertise in building robu
 
 **🔧 Tech Stack:**
 - **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Python, Django, Django REST Framework
+- **Backend:** Python, Django, Django REST Framework, PHP, Laravel
 - **Databases:** PostgreSQL, SQLite
 - **Tools & DevOps:** Git, GitHub, Docker, Railway
 
